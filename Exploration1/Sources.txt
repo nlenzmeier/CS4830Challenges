@@ -1,0 +1,8 @@
+Github Repo: https://github.com/nlenzmeier/nalyv2Exploration1CS4830 
+
+Personal Website: www.niclenz.me/personal.html
+
+Website for PHP Config: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-on-ubuntu-16-04
+
+Website for PHP Code: 
+https://www.w3schools.com/php/func_mail_mail.asp

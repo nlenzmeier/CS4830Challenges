@@ -1,0 +1,5 @@
+400 Error Link: http://ec2-52-91-50-131.compute-1.amazonaws.com/thiswillerror
+500 Error Link: http://ec2-52-91-50-131.compute-1.amazonaws.com/proxytest
+PHP Link: http://ec2-52-91-50-131.compute-1.amazonaws.com/info.php
+GitHub Source Link: https://github.com/nlenzmeier/nlenzmeier.github.io
+Hosted Webpage: https://nlenzmeier.github.io/

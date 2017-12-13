@@ -1,0 +1,9 @@
+I implemented: 
+
+- Update the system status: change the <title> to reflect the current page
+- Update the system status: give a class of "active" to the <li> navigation elements 
+- Fix the endpoints, so that navigating to them directly does not cause a 404
+
+Some frustrations were not knowing exactly what was expected or wanted out of this assignment. Instructions were very vague on the last two and I felt this was a lot to do in one week.
+
+I am not sure what was needed for the history.js suggestion as I was already able to go back and forward without having an issue. But after going to office hours, it still was not working. In fact it has gotten worse when I did the last step: modifying the website to work without JavaScript. But then I realized that the H in history.pushstate wasn’t capitalized and that made ALL the difference! So now everything works! 
